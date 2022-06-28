@@ -4,6 +4,7 @@ git
 jenkins
 docker
 
-
+kubernetes
+ansible
 
 thank you
